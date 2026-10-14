@@ -1,0 +1,15 @@
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/bin/Debug/net8.0/tiposDeDatos
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/bin/Debug/net8.0/tiposDeDatos.deps.json
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/bin/Debug/net8.0/tiposDeDatos.runtimeconfig.json
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/bin/Debug/net8.0/tiposDeDatos.dll
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/bin/Debug/net8.0/tiposDeDatos.pdb
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.AssemblyInfoInputs.cache
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.AssemblyInfo.cs
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.csproj.CoreCompileInputs.cache
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.sourcelink.json
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.dll
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/refint/tiposDeDatos.dll
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.pdb
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/tiposDeDatos.genruntimeconfig.cache
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/tiposDeDatos/obj/Debug/net8.0/ref/tiposDeDatos.dll
