@@ -1,0 +1,15 @@
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/bin/Debug/net8.0/interpolacionDeStrings
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/bin/Debug/net8.0/interpolacionDeStrings.deps.json
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/bin/Debug/net8.0/interpolacionDeStrings.runtimeconfig.json
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/bin/Debug/net8.0/interpolacionDeStrings.dll
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/bin/Debug/net8.0/interpolacionDeStrings.pdb
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.AssemblyInfoInputs.cache
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.AssemblyInfo.cs
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.csproj.CoreCompileInputs.cache
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.sourcelink.json
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.dll
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/refint/interpolacionDeStrings.dll
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.pdb
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/interpolacionDeStrings.genruntimeconfig.cache
+/home/saul/Programacion/c#/Aplicación de la sintaxis básica de C#/ejercicios/interpolacionDeStrings/obj/Debug/net8.0/ref/interpolacionDeStrings.dll

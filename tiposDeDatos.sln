@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiposDeDatos", "ejercicios\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadoresAritmeticos", "ejercicios\operadoresAritmeticos\operadoresAritmeticos.csproj", "{FBC51911-0456-4754-9D1B-2849ABA26988}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interpolacionDeStrings", "ejercicios\interpolacionDeStrings\interpolacionDeStrings.csproj", "{88017A21-457B-4BAA-A651-ACB2EEEE48D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +28,14 @@ Global
 		{FBC51911-0456-4754-9D1B-2849ABA26988}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC51911-0456-4754-9D1B-2849ABA26988}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC51911-0456-4754-9D1B-2849ABA26988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88017A21-457B-4BAA-A651-ACB2EEEE48D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88017A21-457B-4BAA-A651-ACB2EEEE48D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88017A21-457B-4BAA-A651-ACB2EEEE48D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88017A21-457B-4BAA-A651-ACB2EEEE48D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E4F23234-AABD-4BA6-8135-D75B24D8B931} = {5B097655-7AFD-418B-94E1-9B5875CF151E}
 		{FBC51911-0456-4754-9D1B-2849ABA26988} = {5B097655-7AFD-418B-94E1-9B5875CF151E}
+		{88017A21-457B-4BAA-A651-ACB2EEEE48D0} = {5B097655-7AFD-418B-94E1-9B5875CF151E}
 	EndGlobalSection
 EndGlobal
