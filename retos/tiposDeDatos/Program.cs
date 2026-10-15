@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace interpolacionDeStrings;
+namespace tiposDeDatos;
 
 public static class Program
 {
